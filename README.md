@@ -1,0 +1,2 @@
+# shadowsocks
+my shadowsocks pca
