@@ -9,7 +9,7 @@ var white_domains = {"am":{
 "126":1,
 "51":1
 },"biz":{
-"www.python.org/ftp/python":1,
+"www.python.org":1,
 "pypi.python.org/pypi":1,
 "atom.io":1,
 "7daysinn":1,
